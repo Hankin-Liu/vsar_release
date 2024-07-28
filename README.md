@@ -10,7 +10,8 @@ Run sh start.sh -v
 
 ## Copyright
 Copyright (c) 2024 Liu Hua Jun
-All rights reserved.
+All rights reserved.     
+Do not use it for commercial purposes.     
 
 ## Usage
 Run sh start.sh -h
